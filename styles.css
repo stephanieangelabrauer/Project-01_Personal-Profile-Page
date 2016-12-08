@@ -70,7 +70,15 @@ a {
   background: url('images/sydney_tower_skyline.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
-  padding-top: 60px;
+  padding-top: 60px;  
+}
+
+#htmlprojects header {
+  text-align: center;
+  background: url('images/sydney_bridge_opera.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;  
 }
  
 header {
@@ -111,7 +119,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #c21d2d;
 }
 
 ul.skills {
@@ -169,11 +177,14 @@ a.linkedin {
 a.xing {
   background-image: url(images/xing.jpg);
 }
+a.treehouse {
+  background-image: url(images/treehouse.jpg);
+}
 a.github {
   background-image: url(images/github.jpg);
 }
-a.treehouse {
-  background-image: url(images/treehouse.jpg);
+a.bitbucket {
+  background-image: url(images/bitbucket.png);
 }
 a.social:hover {
   opacity: 1;
