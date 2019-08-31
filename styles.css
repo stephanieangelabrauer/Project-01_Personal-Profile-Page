@@ -59,24 +59,27 @@ a {
 
 #htmlhome header {
   text-align: center;
-  background: url('images/auckland-skyline-by-day.jpg') no-repeat center center ;
+  background: url('images/heart-of soest-town-in-nrw-Germany.jpg') no-repeat center center ;
   background-size: cover;
+  background-attachment: fixed;
   overflow: hidden;
   padding-top: 60px;
 }
 
 #htmlcontact header {
   text-align: center;
-  background: url('images/auckland-skyline-by-night.jpg') no-repeat center center ;
+  background: url('images/allerheiligenkirmes-soest-by-night.jpg') no-repeat center center ;
   background-size: cover;
+  background-attachment: fixed;  
   overflow: hidden;
   padding-top: 60px;  
 }
 
 #htmlprojects header {
   text-align: center;
-  background: url('images/auckland-rangitoto.jpg') no-repeat center center;  
+  background: url('images/soest-mohnesee.jpg') no-repeat center center;  
   background-size: cover;
+  background-attachment: fixed; 
   overflow: hidden;
   padding-top: 60px;
 }
